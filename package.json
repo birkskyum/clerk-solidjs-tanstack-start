@@ -1,5 +1,5 @@
 {
-  "name": "clerk-community-tanstack-solid-start",
+  "name": "clerk-solidjs-tanstack-start",
   "version": "0.0.2",
   "description": "Clerk Community SDK for TanStack Solid Start",
   "keywords": [
@@ -13,13 +13,13 @@
     "session",
     "jwt"
   ],
-  "homepage": "https://github.com/birkskyum/clerk-community-tanstack-solid-start#readme",
+  "homepage": "https://github.com/birkskyum/clerk-solidjs-tanstack-start#readme",
   "bugs": {
-    "url": "https://github.com/birkskyum/clerk-community-tanstack-solid-start/issues"
+    "url": "https://github.com/birkskyum/clerk-solidjs-tanstack-start/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/birkskyum/clerk-community-tanstack-solid-start.git"
+    "url": "git+https://github.com/birkskyum/clerk-solidjs-tanstack-start.git"
   },
   "license": "MIT",
   "author": "Clerk Community",

@@ -6,7 +6,7 @@
     </picture>
   </a>
   <br />
-  <h1 align="center">clerk-community-tanstack-solid-start</h1>
+  <h1 align="center">clerk-solidjs-tanstack-start</h1>
 </p>
 
 <div align="center">
@@ -29,7 +29,7 @@
 
 [Clerk](https://clerk.com/?utm_source=github&utm_medium=clerk_tanstack_solid_start) is the easiest way to add authentication and user management to your Tanstack Start application. Add sign up, sign in, and profile management to your application in minutes.
 
-> [!WARNING] > `clerk-community-tanstack-solid-start` is currently in beta. It's not recommended to use it in production just yet, but it would be much appreciated if you give it a try.
+> [!WARNING] > `clerk-solidjs-tanstack-start` is currently in beta. It's not recommended to use it in production just yet, but it would be much appreciated if you give it a try.
 
 ### Prerequisites
 
@@ -43,7 +43,7 @@
 
 The fastest way to get started with Clerk is by following the [TanStack Solid Start Quickstart](https://clerk.com/docs/quickstarts/tanstack-solid-start?utm_source=github&utm_medium=clerk_tanstack_solid_start).
 
-You'll learn how to install `clerk-community-tanstack-solid-start`, set up your environment keys, configure `createClerkHandler` and protect your pages.
+You'll learn how to install `clerk-solidjs-tanstack-start`, set up your environment keys, configure `createClerkHandler` and protect your pages.
 
 ## Usage
 
@@ -62,9 +62,9 @@ We're open to all community contributions! If you'd like to contribute in any wa
 
 ## Security
 
-`clerk-community-tanstack-solid-start` follows good practices of security, but 100% security cannot be assured.
+`clerk-solidjs-tanstack-start` follows good practices of security, but 100% security cannot be assured.
 
-`clerk-community-tanstack-solid-start` is provided **"as is"** without any **warranty**. Use at your own risk.
+`clerk-solidjs-tanstack-start` is provided **"as is"** without any **warranty**. Use at your own risk.
 
 _For more information and to report security issues, please refer to our [security documentation](https://github.com/clerk/javascript/blob/main/docs/SECURITY.md)._
 
