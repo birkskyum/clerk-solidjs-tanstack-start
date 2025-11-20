@@ -3,7 +3,7 @@ import { solidPlugin } from 'esbuild-plugin-solid';
 import type { Options } from 'tsup';
 import { defineConfig } from 'tsup';
 
-import { runAfterLast } from '../../scripts/utils';
+import { runAfterLast } from './scripts/utils';
 // @ts-ignore
 import { name, version } from './package.json';
 

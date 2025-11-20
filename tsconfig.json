@@ -26,5 +26,5 @@
     "skipLibCheck": true,
     "strict": true
   },
-  "include": ["src", "vite-env.d.ts"]
+  "include": ["src","scripts", "vite-env.d.ts"]
 }
