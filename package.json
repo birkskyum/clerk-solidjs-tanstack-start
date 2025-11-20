@@ -1,6 +1,6 @@
 {
   "name": "clerk-solidjs-tanstack-start",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Clerk Community SDK for TanStack Solid Start",
   "keywords": [
     "clerk",
